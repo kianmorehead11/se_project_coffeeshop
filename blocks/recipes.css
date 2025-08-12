@@ -28,6 +28,8 @@
   max-width: 438px;
 }
 .recipes__videos {
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   gap: 40px;
@@ -37,4 +39,8 @@
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
+}
+
+.recipes__iframe {
+  border: none;
 }
