@@ -19,10 +19,11 @@
 }
 
 .about__content {
-  max-width: 660px;
   display: flex;
   flex-direction: column;
   gap: 20px;
+  max-width: 660px;
+  margin-top: 19px;
 }
 
 .about__paragraph {
