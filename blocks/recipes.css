@@ -19,7 +19,7 @@
 
 .recipes__subtitle {
   margin: 0 0 80px;
-  font-family: "Noto Serif", "Inter", Arial, sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -38,7 +38,7 @@
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
-  margin-top: 24px 0 0;
+  margin: 24px 0 0;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
